@@ -1,0 +1,68 @@
+[
+    { 
+        "key": "shift+cmd+[", 
+        "command": "workbench.action.previousEditor"
+    },
+
+    { 
+        "key": "shift+cmd+]",         
+        "command": "workbench.action.nextEditor" 
+    },
+    {
+        "key": "cmd+1",
+        "command": "workbench.files.action.showActiveFileInExplorer"
+    },
+    {
+        "key": "cmd+r",
+        "command": "dart.hotReload",
+        "when": "dart-code:isInDartDebugSession && inDebugMode && debugType == 'dart' || dart-code:service.reloadSources && inDebugMode && debugType == 'dart'"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "-dart.hotReload",
+        "when": "dart-code:isInDartDebugSession && inDebugMode && debugType == 'dart' || dart-code:service.reloadSources && inDebugMode && debugType == 'dart'"
+    },
+    {
+        "key": "f5",
+        "command": "workbench.action.debug.run",
+        "when": "debuggersAvailable && debugState != 'initializing'"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "-workbench.action.debug.run",
+        "when": "debuggersAvailable && debugState != 'initializing'"
+    },
+    {
+        "key": "f5",
+        "command": "-workbench.action.debug.start",
+        "when": "debuggersAvailable && debugState == 'inactive'"
+    },
+    {
+        "key": "cmd+i",
+        "command": "-markdown.extension.editing.toggleItalic",
+        "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+    },
+
+    // Fix Tab and Escape do not work with Next Edit Suggestions with copilot and VSCodeVim enabled.
+    // https://github.com/VSCodeVim/Vim/issues/9490#issuecomment-2778702989
+    {
+        "key": "escape",
+        "command": "-extension.vim_escape",
+        "when": "editorTextFocus && vim.active && !inDebugRepl"
+      },
+      {
+        "key": "Escape",
+        "command": "extension.vim_escape",
+        "when": "editorTextFocus && vim.active && !inDebugRepl && !inlineSuggestionVisible && !inlineEditIsVisible && !testing.isPeekVisible && !testing.isInPeek && !suggestWidgetVisible && !findWidgetVisible && !dirtyDiffVisible && (vim.mode == 'Insert' || !notebookEditorFocused)"
+      },
+      {
+        "key": "tab",
+        "command": "-extension.vim_tab",
+        "when": "editorTextFocus && vim.active && !inDebugRepl && vim.mode != 'Insert'"
+      },
+      {
+        "key": "tab",
+        "command": "extension.vim_tab",
+        "when": "editorTextFocus && vim.active && vim.mode != 'Insert' && !inDebugRepl && !inlineEditIsVisible"
+      },
+]
