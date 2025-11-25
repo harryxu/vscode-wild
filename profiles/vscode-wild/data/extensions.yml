@@ -6,8 +6,6 @@ enabled:
     uuid: null
   - id: AykutSarac.jsoncrack-vscode
     uuid: null
-  - id: bbenoist.Nix
-    uuid: 5b21bd54-5258-4a3e-887f-193d9bb5f063
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc
