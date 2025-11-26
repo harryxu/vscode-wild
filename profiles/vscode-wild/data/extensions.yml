@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: redhat.ansible
+    uuid: f8cb4642-bc5c-46a1-be34-0977e817406c
 enabled:
   - id: alefragnani.Bookmarks
     uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
@@ -78,6 +80,8 @@ enabled:
     uuid: 1b59a093-93c8-429e-a7d7-2a177cea4f47
   - id: MehediDracula.php-namespace-resolver
     uuid: 651dce1f-eda8-4a5b-aa26-0d1266de8ed1
+  - id: meta.pyrefly
+    uuid: 53872426-67ef-4956-afb1-bdae83866fd2
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: monokai.theme-monokai-pro-vscode
@@ -136,8 +140,6 @@ enabled:
     uuid: null
   - id: RandomChance.logstash
     uuid: cb4951a2-8d98-4898-9f91-47ef6827f112
-  - id: redhat.ansible
-    uuid: f8cb4642-bc5c-46a1-be34-0977e817406c
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: redhat.vscode-xml

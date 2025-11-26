@@ -53,7 +53,8 @@
       "list.inactiveSelectionForeground": "#FFFFFF",
       "gitDecoration.untrackedResourceForeground": "#1d891f",
       "sideBar.background": "#e5e5e5",
-      "sideBar.foreground": "#000000"
+      "sideBar.foreground": "#000000",
+      "statusBar.background": "#3b63a3"
     },
     "[KotStream Theme Extended]": {
       "editor.background": "#F7FAFF"
@@ -440,5 +441,6 @@
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "docker.extension.enableComposeLanguageServer": false,
   "geminicodeassist.displayInlineContextHint": false,
-  "explorer.confirmPasteNative": false
+  "explorer.confirmPasteNative": false,
+  "python.languageServer": "None"
 }
