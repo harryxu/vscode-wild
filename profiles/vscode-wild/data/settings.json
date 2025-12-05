@@ -41,6 +41,21 @@
   },
   // 主题颜色
   "workbench.colorCustomizations": {
+    "[Default Light+]": {
+      "editor.background": "#f0eded",
+      "editor.lineHighlightBorder": "#e6e6df",
+      "editor.lineHighlightBackground": "#e6e6df",
+      "tab.inactiveBackground": "#D3D3D3",
+      "tab.inactiveForeground": "#505050",
+      "tab.border": "#C9C9C9",
+      "list.activeSelectionForeground": "#FFFFFF",
+      "list.inactiveSelectionBackground": "#8fbae7",
+      "list.inactiveSelectionForeground": "#FFFFFF",
+      "gitDecoration.untrackedResourceForeground": "#1d891f",
+      "sideBar.background": "#e5e5e5",
+      "sideBar.foreground": "#000000",
+      "statusBar.background": "#3b63a3"
+    },
     "[Visual Studio Light]": {
       "editor.background": "#f0eded",
       "editor.lineHighlightBorder": "#e6e6df",

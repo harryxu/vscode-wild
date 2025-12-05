@@ -204,7 +204,7 @@ workbench.activityBar.location: top
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["editorconfig",true],["html",true],["json",true],["javascript",true],["markdown",true],["makefile",true],["typescriptreact",true],["typescript",true],["properties",true],["plaintext",true],["python",true],["jsonc",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["editorconfig",true],["html",true],["json",true],["javascript",true],["markdown",true],["typescriptreact",true],["typescript",true],["properties",true],["plaintext",true],["python",true],["makefile",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"dartDependencyTree","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"wokwi-explorer","isHidden":false},{"id":"ansible-home","isHidden":false},{"id":"lightspeed-explorer-webview","isHidden":false},{"id":"lightspeed-feedback-webview","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
