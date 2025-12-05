@@ -206,8 +206,6 @@
     }
   },
 
-  "windsurf.completion.timeout": 10000,
-
   // emmet for jsx
   "emmet.syntaxProfiles": {
     "javascript": "jsx",
@@ -328,13 +326,6 @@
   "security.workspace.trust.untrustedFiles": "open",
   "editor.guides.bracketPairs": true,
   "editor.inlineSuggest.enabled": true,
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": true,
-    "scminput": false,
-    "yaml": true
-  },
   "editor.guides.indentation": true,
   "http.proxySupport": "off",
   "diffEditor.codeLens": true,
@@ -353,16 +344,11 @@
     "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
   "liveServer.settings.donotShowInfoMsg": true,
-  "codeium.enableConfig": {
-    "*": true
-  },
   "gitlens.currentLine.pullRequests.enabled": false,
   "gitlens.currentLine.enabled": false,
   "gitlens.codeLens.recentChange.enabled": false,
   "gitlens.codeLens.authors.enabled": false,
   "php.codeLens.enabled": false,
-  "codeium.enableCodeLens": false,
-  "markdown-pdf.displayHeaderFooter": false,
   "redhat.telemetry.enabled": false,
   "files.watcherExclude": {
     "**/dist/*/**": true,
@@ -387,30 +373,8 @@
     "editor.defaultFormatter": "vscode.html-language-features"
   },
   "markdown-preview-enhanced.liveUpdate": false,
-  "remote.SSH.useLocalServer": false,
-  "remote.SSH.remotePlatform": {
-    "altuminis01.fish": "linux",
-    "harrydev1": "linux",
-    "grharrydev1": "linux",
-    "192.168.19.231": "linux",
-    "192.168.16.126": "linux",
-    "192.168.16.127": "linux",
-    "harryminisdev1": "linux",
-    "gsrv02_r": "linux",
-    "gr_harrydev1": "linux",
-    "192.168.19.233": "linux",
-    "192.168.19.235": "linux",
-    "gr_src": "linux",
-    "192.168.16.133": "linux",
-    "192.168.19.125": "linux",
-    "192.168.19.222": "linux",
-    "ha-harry-local": "linux",
-    "dolphin_harry_home": "linux"
-  },
   "terminal.integrated.tabs.location": "left",
   "git.autofetch": true,
-  "codeium.enableExplainProblem": false,
-  "remote.SSH.useExecServer": false,
   "liveServer.settings.donotVerifyTags": true,
   "gitlens.graph.minimap.enabled": false,
   "[json]": {
@@ -431,16 +395,14 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "terminal.integrated.tabs.enabled": false,
-  "workbench.colorTheme": "Visual Studio Light",
   "react-native-tools.showUserTips": false,
-  "geminicodeassist.project": "",
   "editor.unicodeHighlight.ambiguousCharacters": false,
-  "github.copilot.nextEditSuggestions.enabled": true,
   "diffEditor.ignoreTrimWhitespace": true,
-  "geminicodeassist.inlineSuggestions.enableAuto": true,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "docker.extension.enableComposeLanguageServer": false,
-  "geminicodeassist.displayInlineContextHint": false,
   "explorer.confirmPasteNative": false,
-  "python.languageServer": "None"
+  "python.languageServer": "None",
+  "editor.codeLens": false,
+  "workbench.colorTheme": "Default Light+",
+  "json.schemaDownload.enable": true
 }

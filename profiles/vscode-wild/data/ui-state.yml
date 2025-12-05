@@ -1,10 +1,13 @@
 alefragnani.Bookmarks: '{"Bookmarks.version":"13.5.0"}'
 Dart-Code.dart-code: '{"experiment-sdkDaps":97,"experiment-sdkDaps-hasActivated":true}'
+DEVSENSE.composer-php-vscode: '{"latest.phar.timestamp":1764912700.478}'
+DEVSENSE.phptools-vscode: '{"welcome.lastversion":"1.63","welcome.enabled":false}'
 glenn2223.live-sass: '{"liveSassCompiler.setup.version":"6.1.2"}'
 ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1763741120463,"currentMonthSessions":1,"totalSessions":1},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1763741120778,"currentMonthSessions":1,"totalSessions":1},"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2cf","config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.http.systemCertificatesNodecf","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaacf","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31351930;6abeh943:31336334;gaj49834:31404438;todos-1:31405332;qwen_all_req:31402696;treatment_gpt5applypatchexclusively:31412086;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;ec5jj548:31422691;c0683394:31419495;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":false,"config.github.copilot.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.http.systemCertificatesNode":false,"copilotchat.config.chat.advanced.instantApply.ModelName":"qwen3-4b-instant-apply-ft","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"qwen3-4b-instant-apply-ft","copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
 ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
 vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.15.0","status":2,"welcomeShown":true}}'
+Vue.volar: '{"vue.welcome":"3.1.0","vue.showUpdates":false}'
 workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.flutterPropertyEditorContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.sidebarWidgetPreviewContainer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":21}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
@@ -117,19 +120,19 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   kmarks-13.5.0/images/bookmark-activity-bar.svg\",\"scheme\":\"file\"},\"name\
   \":\"Bookmarks\",\"isBuiltin\":false,\"views\":[{},{}]},{\"id\":\"workbench.v\
   iew.extension.flutter\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_P\
-  ATH%%/dart-code.dart-code-3.122.0-universal/media/icons/sidebar/flutter.svg\",\
+  ATH%%/dart-code.dart-code-3.124.1-universal/media/icons/sidebar/flutter.svg\",\
   \"scheme\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\":false,\"views\":[{\"w\
   hen\":\"dart-code:anyFlutterProjectLoaded &&
   dart-code:flutterSidebarSupported\"},{\"when\":\"dart-code:anyFlutterProjectL\
   oaded\"}]},{\"id\":\"workbench.view.extension.flutterPropertyEditorContainer\
   \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-\
-  code-3.122.0-universal/media/icons/sidebar/property_editor.svg\",\"scheme\":\
+  code-3.124.1-universal/media/icons/sidebar/property_editor.svg\",\"scheme\":\
   \"file\"},\"name\":\"Flutter Property
   Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProje\
   ctLoaded &&
   dart-code:flutterPropertyEditorSupported\"}]},{\"id\":\"workbench.view.extens\
   ion.sidebarDevToolsContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION\
-  _DATA_PATH%%/dart-code.dart-code-3.122.0-universal/media/icons/sidebar/devtoo\
+  _DATA_PATH%%/dart-code.dart-code-3.124.1-universal/media/icons/sidebar/devtoo\
   ls.svg\",\"scheme\":\"file\"},\"name\":\"Flutter
   DevTools\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPro\
   jectLoaded &&
@@ -143,19 +146,19 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   oaded &&
   dart-code:devToolsSidebar.logging\"}]},{\"id\":\"workbench.view.extension.sid\
   ebarDevToolsInspectorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSI\
-  ON_DATA_PATH%%/dart-code.dart-code-3.122.0-universal/media/icons/sidebar/insp\
+  ON_DATA_PATH%%/dart-code.dart-code-3.124.1-universal/media/icons/sidebar/insp\
   ector.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
   Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterPr\
   ojectLoaded &&
   dart-code:devToolsSidebar.inspector\"}]},{\"id\":\"workbench.view.extension.s\
   idebarDevToolsDeepLinksContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTEN\
-  SION_DATA_PATH%%/dart-code.dart-code-3.122.0-universal/media/icons/sidebar/de\
+  SION_DATA_PATH%%/dart-code.dart-code-3.124.1-universal/media/icons/sidebar/de\
   ep_links.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
   Links\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProjec\
   tLoaded &&
   dart-code:devToolsSidebar.deep-links\"}]},{\"id\":\"workbench.view.extension.\
   sidebarWidgetPreviewContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSIO\
-  N_DATA_PATH%%/dart-code.dart-code-3.122.0-universal/media/icons/sidebar/widge\
+  N_DATA_PATH%%/dart-code.dart-code-3.124.1-universal/media/icons/sidebar/widge\
   t_preview.svg\",\"scheme\":\"file\"},\"name\":\"Flutter Widget
   Preview\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProj\
   ectLoaded &&
@@ -200,8 +203,8 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.activityBar.location: top
 workbench.auxiliaryBar.empty: "true"
 workbench.auxiliaryBar.lastNonMaximizedSize: "300"
-workbench.auxiliaryBar.size: "500"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["javascript",true],["yaml",true],["editorconfig",true],["json",true],["typescript",true],["html",true],["plaintext",true],["python",true],["properties",true],["typescriptreact",true],["jsonc",true]]'
+workbench.auxiliaryBar.size: "300"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["editorconfig",true],["html",true],["json",true],["javascript",true],["markdown",true],["makefile",true],["typescriptreact",true],["typescript",true],["properties",true],["plaintext",true],["python",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"dartDependencyTree","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"wokwi-explorer","isHidden":false},{"id":"ansible-home","isHidden":false},{"id":"lightspeed-explorer-webview","isHidden":false},{"id":"lightspeed-feedback-webview","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
@@ -218,10 +221,10 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon"
   jupyter:showTagsExplorer"}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "359"
+workbench.panel.size: "593"
 workbench.quickInput.viewState: '{"top":0.25,"left":0.5}'
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
-workbench.sideBar.size: "392"
+workbench.sideBar.size: "241"
 workbench.statusbar.hidden: '["kamikillerto.vscode-colorize","ritwickdey.LiveServer","redhat.vscode-yaml","esbenp.prettier-vscode.prettier.status","eamodio.gitlens.gitlens.launchpad","vscode.git.git.blame"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
