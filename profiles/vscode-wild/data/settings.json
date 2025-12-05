@@ -350,7 +350,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.lastDownload": 1761295039370,
+  "php-cs-fixer.lastDownload": 1764927602988,
   "git.openRepositoryInParentFolders": "prompt",
   "[python]": {
     "editor.formatOnType": true
