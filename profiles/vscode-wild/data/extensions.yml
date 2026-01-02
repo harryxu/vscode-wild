@@ -14,8 +14,6 @@ enabled:
     uuid: 69264e4d-cd3b-468a-8f2b-e69673c7d864
   - id: christian-kohler.npm-intellisense
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
-  - id: Codeium.windsurfPyright
-    uuid: 1adb9c26-188a-4fb6-840e-b1e951ecff7c
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: darianmorat.darian-theme

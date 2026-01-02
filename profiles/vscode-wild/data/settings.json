@@ -377,7 +377,6 @@
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
-  "window.commandCenter": false,
   "search.followSymlinks": false,
   "liveSassCompile.settings.showOutputWindowOn": "Error",
   "workbench.activityBar.location": "top",
@@ -419,5 +418,9 @@
   "python.languageServer": "None",
   "editor.codeLens": false,
   "workbench.colorTheme": "Default Light+",
-  "json.schemaDownload.enable": true
+  "json.schemaDownload.enable": true,
+  "editor.formatOnSave": false,
+  "windsurfPyright.disableLanguageServices": true,
+  "python.pyrefly.displayTypeErrors": "force-on",
+  "syncSettings.additionalFiles": []
 }
