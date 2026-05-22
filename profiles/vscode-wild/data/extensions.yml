@@ -4,10 +4,8 @@ disabled:
 enabled:
   - id: alefragnani.Bookmarks
     uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
-  - id: alexisvt.flutter-snippets
-    uuid: null
   - id: AykutSarac.jsoncrack-vscode
-    uuid: null
+    uuid: 87c9998f-5c0f-49ee-b89f-51340cdc449a
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc
@@ -16,8 +14,6 @@ enabled:
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
-  - id: darianmorat.darian-theme
-    uuid: null
   - id: Dart-Code.dart-code
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: Dart-Code.flutter
@@ -40,8 +36,6 @@ enabled:
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
-  - id: emallin.phpunit
-    uuid: null
   - id: emilast.LogFileHighlighter
     uuid: e8b488af-fccf-4adf-b60c-fc7455bea107
   - id: EricSia.pythonsnippets3
@@ -66,10 +60,6 @@ enabled:
     uuid: bd3a577b-547f-4b5c-826a-9be782edabe8
   - id: JohnnyMorganz.stylua
     uuid: 6f48cf48-3912-4acc-8119-94a96a062cc1
-  - id: jsynowiec.vscode-insertdatestring
-    uuid: null
-  - id: jtavin.ldif
-    uuid: null
   - id: junstyle.php-cs-fixer
     uuid: b06b65b2-6ea9-4045-b166-54aa63205261
   - id: kamikillerto.vscode-colorize
@@ -98,6 +88,8 @@ enabled:
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-toolsai.jupyter
     uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-toolsai.jupyter-keymap
@@ -108,18 +100,8 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
-  - id: ms-vscode-remote.remote-ssh-edit
-    uuid: null
-  - id: ms-vscode-remote.vscode-remote-extensionpack
-    uuid: null
-  - id: ms-vscode.remote-explorer
-    uuid: null
-  - id: ms-vscode.remote-server
-    uuid: null
   - id: msjsdiag.vscode-react-native
     uuid: b35cd5b4-18db-46f9-ba9e-06096c3b22d3
-  - id: naumovs.theme-oceanicnext
-    uuid: null
   - id: neilbrayfield.php-docblocker
     uuid: ca0094fa-0dc7-4847-ae5d-879442c099ca
   - id: NicolasVuillamy.vscode-groovy-lint
@@ -132,10 +114,6 @@ enabled:
     uuid: 3b58a227-618a-4b57-a06b-6984a2a8d1ba
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
-  - id: pmndrs.pmndrs
-    uuid: null
-  - id: quicktype.quicktype
-    uuid: null
   - id: RandomChance.logstash
     uuid: cb4951a2-8d98-4898-9f91-47ef6827f112
   - id: redhat.java
@@ -148,20 +126,12 @@ enabled:
     uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
   - id: robert-brunhage.flutter-riverpod-snippets
     uuid: b85c5930-27ab-45aa-b7e6-ba6f7ef345dc
-  - id: rubbersheep.gi
-    uuid: null
   - id: rubjo.ultimate-dark-neo
     uuid: c0ac4332-1290-4624-bb6e-98f1b6535036
-  - id: ruslanusmanov.kot-stream-theme
-    uuid: null
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
-  - id: s1e2b3i4.onenord-vscode
-    uuid: null
   - id: sainnhe.gruvbox-material
     uuid: d9437be1-e21c-4e9a-9548-e63650468296
-  - id: shanoor.vscode-nginx
-    uuid: null
   - id: shd101wyy.markdown-preview-enhanced
     uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
   - id: sleistner.vscode-fileutils
