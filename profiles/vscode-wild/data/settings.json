@@ -2,7 +2,7 @@
 {
   // 字体
   "editor.fontFamily": "'Iosevka Nerd Font Mono', 'Iosevka NFM', monospace",
-  "editor.fontSize": 21,
+  "editor.fontSize": 20,
   "editor.fontWeight": "400",
   "editor.wordWrap": "on",
   "editor.cursorStyle": "line",
@@ -19,15 +19,12 @@
   "explorer.autoReveal": false,
   "explorer.confirmDragAndDrop": false,
   "window.zoomLevel": 1.2,
-  "[linux]": {
-    "window.titleBarStyle": "native"
-  },
   "files.associations": {
     "*.wxml": "xml",
     "*.wxss": "css",
     "*.tmpl": "html",
     "Vagrantfile": "ruby",
-    "*.js": "javascript"
+    "*.js": "javascript",
     // "*.ts": "javascript"
     // "*.vue": "html"
   },
@@ -37,25 +34,10 @@
     "**/.hg": true,
     "**/CVS": true,
     "**/.DS_Store": true,
-    "**/*.pyc": true
+    "**/*.pyc": true,
   },
   // 主题颜色
   "workbench.colorCustomizations": {
-    "[Default Light+]": {
-      "editor.background": "#f0eded",
-      "editor.lineHighlightBorder": "#e6e6df",
-      "editor.lineHighlightBackground": "#e6e6df",
-      "tab.inactiveBackground": "#D3D3D3",
-      "tab.inactiveForeground": "#505050",
-      "tab.border": "#C9C9C9",
-      "list.activeSelectionForeground": "#FFFFFF",
-      "list.inactiveSelectionBackground": "#8fbae7",
-      "list.inactiveSelectionForeground": "#FFFFFF",
-      "gitDecoration.untrackedResourceForeground": "#1d891f",
-      "sideBar.background": "#e5e5e5",
-      "sideBar.foreground": "#000000",
-      "statusBar.background": "#3b63a3"
-    },
     "[Visual Studio Light]": {
       "editor.background": "#f0eded",
       "editor.lineHighlightBorder": "#e6e6df",
@@ -69,13 +51,13 @@
       "gitDecoration.untrackedResourceForeground": "#1d891f",
       "sideBar.background": "#e5e5e5",
       "sideBar.foreground": "#000000",
-      "statusBar.background": "#3b63a3"
+      "statusBar.background": "#3b63a3",
     },
     "[KotStream Theme Extended]": {
-      "editor.background": "#F7FAFF"
+      "editor.background": "#F7FAFF",
     },
     "[One Monokai]": {
-      "editor.lineHighlightBackground": "#1D2329"
+      "editor.lineHighlightBackground": "#1D2329",
     },
     "[Light GruvDark-Tokyo]": {
       // "editor.background": "#F3F0DE",
@@ -83,8 +65,8 @@
       "sideBarSectionHeader.border": "#c0bca6",
       "sideBarSectionHeader.background": "#e3debe",
       "sideBarSectionHeader.foreground": "#202020",
-      "sideBar.foreground": "#000000"
-    }
+      "sideBar.foreground": "#000000",
+    },
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -189,12 +171,12 @@
           "variable.name",
           "variable.other",
           "variable.other.readwrite",
-          "variable.parameter"
+          "variable.parameter",
         ],
         "settings": {
-          "fontStyle": ""
-        }
-      }
+          "fontStyle": "",
+        },
+      },
     ],
     "[Visual Studio Light]": {
       "keywords": "#000080",
@@ -211,59 +193,56 @@
             "meta.preprocessor",
             "keyword",
             "keyword.control",
-            "variable.language"
+            "variable.language",
           ],
           "settings": {
-            "foreground": "#000080"
-          }
-        }
-      ]
-    }
+            "foreground": "#000080",
+          },
+        },
+      ],
+    },
   },
+  "windsurf.completion.timeout": 10000,
   // emmet for jsx
   "emmet.syntaxProfiles": {
     "javascript": "jsx",
     "jsx": {
       "self_closing_tag": true,
-      "attr_quotes": "single"
-    }
+      "attr_quotes": "single",
+    },
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     // "vue-html": "html",
-    "plaintext": "jade"
+    "plaintext": "jade",
   },
   "vim.disableExtension": false,
   "vim.foldfix": true,
   "vim.normalModeKeyBindings": [
     {
-      "before": [
-        "u"
-      ],
+      "before": ["u"],
       "after": [],
       "commands": [
         {
-          "command": "undo"
-        }
-      ]
+          "command": "undo",
+        },
+      ],
     },
     {
-      "before": [
-        "<C-r>"
-      ],
+      "before": ["<C-r>"],
       "after": [],
       "commands": [
         {
-          "command": "redo"
-        }
-      ]
-    }
+          "command": "redo",
+        },
+      ],
+    },
   ],
   "vim.handleKeys": {
     "<C-p>": false,
     "<C-f>": false,
     "<C-b>": false,
-    "<C-j>": false
+    "<C-j>": false,
   },
   "path-autocomplete.triggerOutsideStrings": true,
   "explorer.confirmDelete": false,
@@ -275,25 +254,23 @@
   "javascript.validate.enable": false,
   "editor.renderControlCharacters": false,
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "editor.quickSuggestions": {
     "comments": "on",
     "strings": "on",
-    "other": "on"
+    "other": "on",
   },
   "editor.quickSuggestionsDelay": 50,
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [
-      80
-    ],
+    "editor.rulers": [80],
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
     "editor.tabCompletion": "onlySnippets",
-    "editor.wordBasedSuggestions": "off"
+    "editor.wordBasedSuggestions": "off",
   },
   "dart.debugSdkLibraries": true,
   "todo-tree.general.tags": [
@@ -304,24 +281,24 @@
     "XXX",
     "[ ]",
     "[x]",
-    "MARK"
+    "MARK",
   ],
   "todo-tree.highlights.customHighlight": {
     "MARK": {
       "icon": "bookmark",
-      "background": "#2476ce7a"
-    }
+      "background": "#2476ce7a",
+    },
   },
   "editor.insertSpaces": false,
   "editor.lineNumbers": "on",
   "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
   "go.toolsManagement.autoUpdate": true,
   "workbench.editorAssociations": {
-    "*.ipynb": "jupyter-notebook"
+    "*.ipynb": "jupyter-notebook",
   },
   "notebook.cellToolbarLocation": {
     "default": "right",
-    "jupyter-notebook": "left"
+    "jupyter-notebook": "left",
   },
   "colorize.languages": [
     "css",
@@ -339,66 +316,101 @@
     "typescript",
     "typescriptreact",
     "json",
-    "lua"
+    "lua",
   ],
   "security.workspace.trust.untrustedFiles": "open",
   "editor.guides.bracketPairs": true,
   "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true,
+  },
   "editor.guides.indentation": true,
   "http.proxySupport": "off",
   "diffEditor.codeLens": true,
   "git.mergeEditor": false,
   "editor.stickyScroll.maxLineCount": 1,
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.lastDownload": 1764927602988,
+  "php-cs-fixer.lastDownload": 1761295039370,
   "git.openRepositoryInParentFolders": "prompt",
   "[python]": {
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
   },
   "[php]": {
-    "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    "editor.defaultFormatter": "junstyle.php-cs-fixer",
   },
   "liveServer.settings.donotShowInfoMsg": true,
+  "codeium.enableConfig": {
+    "*": true,
+  },
   "gitlens.currentLine.pullRequests.enabled": false,
   "gitlens.currentLine.enabled": false,
   "gitlens.codeLens.recentChange.enabled": false,
   "gitlens.codeLens.authors.enabled": false,
   "php.codeLens.enabled": false,
+  "codeium.enableCodeLens": false,
+  "markdown-pdf.displayHeaderFooter": false,
   "redhat.telemetry.enabled": false,
   "files.watcherExclude": {
     "**/dist/*/**": true,
     "**/gDist/*/**": true,
-    "**/vendor/*/**": true
+    "**/vendor/*/**": true,
   },
   "dart.flutterHotReloadOnSave": "manualIfDirty",
   "dart.hotReloadOnSave": "manualIfDirty",
   "debug.console.fontSize": 16,
   "editor.accessibilitySupport": "off",
   "terminal.integrated.env.osx": {
-    "FIG_NEW_SESSION": "1"
+    "FIG_NEW_SESSION": "1",
   },
+  "window.commandCenter": false,
   "search.followSymlinks": false,
   "liveSassCompile.settings.showOutputWindowOn": "Error",
   "workbench.activityBar.location": "top",
   "[less]": {
-    "editor.defaultFormatter": "vscode.css-language-features"
+    "editor.defaultFormatter": "vscode.css-language-features",
   },
   "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
+    "editor.defaultFormatter": "vscode.html-language-features",
   },
   "markdown-preview-enhanced.liveUpdate": false,
+  "remote.SSH.useLocalServer": false,
+  "remote.SSH.remotePlatform": {
+    "altuminis01.fish": "linux",
+    "harrydev1": "linux",
+    "grharrydev1": "linux",
+    "192.168.19.231": "linux",
+    "192.168.16.126": "linux",
+    "192.168.16.127": "linux",
+    "harryminisdev1": "linux",
+    "gsrv02_r": "linux",
+    "gr_harrydev1": "linux",
+    "192.168.19.233": "linux",
+    "192.168.19.235": "linux",
+    "gr_src": "linux",
+    "192.168.16.133": "linux",
+    "192.168.19.125": "linux",
+    "192.168.19.222": "linux",
+    "ha-harry-local": "linux",
+    "dolphin_harry_home": "linux",
+  },
   "terminal.integrated.tabs.location": "left",
   "git.autofetch": true,
+  "codeium.enableExplainProblem": false,
+  "remote.SSH.useExecServer": false,
   "liveServer.settings.donotVerifyTags": true,
   "gitlens.graph.minimap.enabled": false,
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   },
   "php.inlayHints.insertOnDoubleClick": false,
   "php.inlayHints.parameters.byReference": false,
@@ -406,25 +418,29 @@
   "php.inlayHints.types.suppressVariableFromLiteral": false,
   "php.inlayHints.types.lambdaParameter": false,
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "terminal.integrated.tabs.enabled": false,
+  "workbench.colorTheme": "Visual Studio Light",
   "react-native-tools.showUserTips": false,
+  "geminicodeassist.project": "",
   "editor.unicodeHighlight.ambiguousCharacters": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
   "diffEditor.ignoreTrimWhitespace": true,
+  "geminicodeassist.inlineSuggestions.enableAuto": true,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "docker.extension.enableComposeLanguageServer": false,
+  "geminicodeassist.displayInlineContextHint": false,
   "explorer.confirmPasteNative": false,
   "python.languageServer": "None",
-  "editor.codeLens": false,
-  "workbench.colorTheme": "Default Light+",
   "json.schemaDownload.enable": true,
-  "editor.formatOnSave": false,
   "windsurfPyright.disableLanguageServices": true,
   "python.pyrefly.displayTypeErrors": "force-on",
-  "syncSettings.additionalFiles": [],
-  "editor.foldingImportsByDefault": true
+  "window.menuBarVisibility": "compact",
+  "remote.autoForwardPortsSource": "hybrid",
+  "editor.foldingImportsByDefault": true,
+  "editor.tabSize": 2,
 }

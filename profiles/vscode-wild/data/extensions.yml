@@ -1,11 +1,13 @@
 disabled:
+  - id: AykutSarac.jsoncrack-vscode
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: redhat.ansible
     uuid: f8cb4642-bc5c-46a1-be34-0977e817406c
+  - id: SonarSource.sonarlint-vscode
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: alefragnani.Bookmarks
     uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
-  - id: AykutSarac.jsoncrack-vscode
-    uuid: 87c9998f-5c0f-49ee-b89f-51340cdc449a
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Catppuccin.catppuccin-vsc
